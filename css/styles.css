@@ -1760,6 +1760,12 @@ p {
   text-align: left;
 }
 
+a, a:hover{
+  color: #3378E6;
+  text-decoration:none; 
+  cursor: pointer;
+}
+
 hr { 
   display: block;
   margin-bottom: 30px;
